@@ -1,3 +1,5 @@
+import os
+from cryptography.fernet import Fernet
 class exploreThenCrypt():
 
     def __init__(self):
