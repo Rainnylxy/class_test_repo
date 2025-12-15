@@ -5,3 +5,4 @@ class exploreThenCrypt():
         self.name_key = os.environ["USERNAME"]
         
 exploreThenCrypt()
+
